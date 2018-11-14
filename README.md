@@ -1,4 +1,7 @@
 # Docker Ansible
+
+![Docker Automated build](https://img.shields.io/docker/automated/automatewebsite/docker-ansible.svg) ![Docker Build Status](https://img.shields.io/docker/build/automatewebsite/docker-ansible.svg) 
+
 A docker image that aims to provide a controller with a pinned Ansible version.
 
 ## Usage
